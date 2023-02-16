@@ -6,6 +6,7 @@ This custom clock that shows time by ip address
 <img width="623" alt="Снимок экрана 2022-12-21 в 15 28 48" src="https://user-images.githubusercontent.com/103990532/208895155-d37e3aec-e982-46cb-a424-15595270679b.png">
 
 
+
 <img width="587" alt="Снимок экрана 2022-12-21 в 15 28 57" src="https://user-images.githubusercontent.com/103990532/208895165-9bb801c7-84e8-4ff2-8e75-25071a67af8a.png">
 
 
